@@ -42,6 +42,18 @@
       </plugin>
     </plugins>
   </build>
+<repository>
+  <id>azure-devops-app-deploy</id>
+  <url>https://pkgs.dev.azure.com/azure-devops-app-deploy/_packaging/azure-devops-app-deploy/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
+
+
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
