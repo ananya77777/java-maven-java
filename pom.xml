@@ -45,7 +45,7 @@
    <repositories>
         <repository>
             <id>ananyahegde0134</id>
-            <url>https://pkgs.dev.azure.com/ananyahegde0134/java-web-app/_packaging/helloworld/maven/v1</url>
+            <url>https://pkgs.dev.azure.com/azure-devops-app-deploy/_packaging/azure-devops-app-deploy/maven/v1</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -58,7 +58,7 @@
     <distributionManagement>
         <repository>
             <id>ananyahegde0134</id>
-           <url>https://pkgs.dev.azure.com/ananyahegde0134/java-web-app/_packaging/helloworld/maven/v1</url>
+           <url>https://pkgs.dev.azure.com/azure-devops-app-deploy/_packaging/azure-devops-app-deploy/maven/v1</url>
         </repository>
     </distributionManagement>
 
